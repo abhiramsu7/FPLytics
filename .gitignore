@@ -1,0 +1,13 @@
+# Python virtual environment
+venv/
+.venv/
+env/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Data files (optional, but good practice if they are large)
+data/
+*.csv
+*.parquet
