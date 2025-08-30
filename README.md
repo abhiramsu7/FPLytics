@@ -21,7 +21,7 @@ This project is a data-driven tool to help Fantasy Premier League managers make 
 
 Here is a sample of the top recommended midfielders for Gameweek 3 based on the model:
 
-*(**Instruction**: Take a screenshot of your final output and save it in your project folder as `recommendations.png`. Then, this line will display it!)*
+*(**Instruction**: 
 ![Final Recommendations](recommendations.png)
 
 
